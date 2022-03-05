@@ -1,0 +1,38 @@
+.btn-red{
+	text-align: center;
+}
+
+.btn {
+	text-align: center;
+	
+}
+
+.btn-red{
+	background-color: red;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 10px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-red:hover{
+	background-color: red;
+	opacity: 0.6;
+	color: whitesmoke;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn{
+	background-color: red;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 10px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn:hover{
+	background-color: red;
+	opacity: 0.6;
+	color: whitesmoke;
+	font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,26 @@
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/container.css");
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  margin: 0px;
+}
+
+h1, h2, h3 {
+  font-family: 'Pacifico', cursive;
+  font-weight: bold;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+

@@ -1,0 +1,26 @@
+.banner {
+  background-image: url('../images/background.jpg');
+  background-size: cover;     
+  background-position: center;
+}
+
+.banner{
+  height: 250px;
+  width: 100%;
+  position: relative;
+  margin: 0px;
+}
+
+
+.banner h1 {
+  font-family: 'Pacifico', cursive;
+  color: white;
+  font-size: 50px;
+}
+
+.banner h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+}
